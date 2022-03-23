@@ -1,0 +1,1 @@
+https://github.com/bpsm/edn-java.git c1d891d6437f89af3a9c2cbc3c4e002556aa71b4 bpsm.edn-java

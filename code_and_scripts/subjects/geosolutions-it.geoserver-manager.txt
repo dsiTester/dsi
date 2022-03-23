@@ -1,0 +1,1 @@
+https://github.com/geosolutions-it/geoserver-manager.git d518e9e5a4dc8a13ce8b47462225c7051570a07d geosolutions-it.geoserver-manager

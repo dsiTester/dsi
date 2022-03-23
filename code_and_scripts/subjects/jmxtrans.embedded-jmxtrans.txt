@@ -1,0 +1,1 @@
+https://github.com/jmxtrans/embedded-jmxtrans.git 3b5761341ba892bee4aad13c376b732e5f912d2f jmxtrans.embedded-jmxtrans

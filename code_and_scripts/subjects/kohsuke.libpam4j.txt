@@ -1,0 +1,1 @@
+https://github.com/kohsuke/libpam4j.git 377d71a2b73c11b7c21bea0fb4ac5050ba8fc5c9 kohsuke.libpam4j

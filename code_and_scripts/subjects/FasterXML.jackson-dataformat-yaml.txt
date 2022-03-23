@@ -1,0 +1,1 @@
+https://github.com/FasterXML/jackson-dataformat-yaml.git d2752c9606c339df7cfcbd6e8547f9b6e53119f9 FasterXML.jackson-dataformat-yaml

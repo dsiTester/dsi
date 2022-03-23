@@ -1,0 +1,1 @@
+https://github.com/ptgoetz/storm-jms.git d152d72f3726f3ff40ba74dee0392f8764b43fd0 ptgoetz.storm-jms

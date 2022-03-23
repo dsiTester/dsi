@@ -1,0 +1,1 @@
+https://github.com/wildfly/jandex.git 8b3847bf0d731cccea49ea8fa2a2f5d11780a997 wildfly.jandex

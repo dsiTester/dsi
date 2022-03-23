@@ -1,0 +1,1 @@
+https://github.com/hoverruan/weiboclient4j.git 80556b1ce40ee4dc063b977f885792efb6307547 hoverruan.weiboclient4j

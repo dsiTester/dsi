@@ -1,0 +1,1 @@
+https://github.com/apache/commons-compress.git 4246b887ba88dc0b2bc09e92c63fff97381b4a12 commons-compress

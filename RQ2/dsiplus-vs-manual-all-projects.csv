@@ -1,0 +1,6 @@
+dsi-outcome,true-spec,spurious-spec,nbp,unknown,sometimes-true-spec,total
+likely-valid,32,91,6,2,20,151
+likely-spurious,12,529,2,1,29,573
+unknown,20,461,490,4,15,990
+mixed,34,182,4,7,60,287
+total,98,1263,502,14,124,2001

@@ -1,0 +1,13 @@
+Project,onlyAT,onlyTC,onlyTM,AT^TC,AT^TM,TC^TM,AT^TC^TM,Total
+kamranzafar.jtar,0,0,4,0,0,6,1,11
+commons-codec,0,0,412,0,0,16,17,445
+commons-validator,0,0,189,0,0,379,96,664
+commons-exec,0,0,123,0,0,211,0,334
+joda-convert,0,0,168,0,0,24,18,210
+commons-fileupload,0,0,166,0,0,154,17,337
+sum,0,0,1062,0,0,790,149,2001
+big-sum,254,3218,76680,442,3,19396,3271,103264
+min,0,0,4,0,0,6,0,11
+max,0,0,412,0,0,379,96,664
+avg,0,0,177,0,0,131.7,24.8,333.5
+median,0.0,0.0,167.0,0.0,0.0,89.0,17.0,335.5

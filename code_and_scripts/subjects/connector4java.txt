@@ -1,0 +1,1 @@
+https://github.com/osiam/connector4java.git e90425192ca7b77c24f3568ec06a8ac824c83d81 connector4java

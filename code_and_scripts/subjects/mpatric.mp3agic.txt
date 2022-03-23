@@ -1,0 +1,1 @@
+https://github.com/mpatric/mp3agic.git 99fa154531f640975915024b814f380f3a6be2f1 mpatric.mp3agic

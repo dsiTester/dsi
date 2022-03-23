@@ -1,0 +1,1 @@
+https://github.com/apache/commons-configuration.git 3f28d20c748da4219ec397f9a69eae6936be05a2 commons-configuration

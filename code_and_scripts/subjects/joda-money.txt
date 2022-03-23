@@ -1,0 +1,1 @@
+https://github.com/JodaOrg/joda-money.git 7965e69c4b7586322be96790442fe3b749374684 joda-money
